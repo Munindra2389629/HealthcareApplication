@@ -1,5 +1,5 @@
 package com.cognizant.entity;
 
-public class user {
+public class Notification {
 
 }
